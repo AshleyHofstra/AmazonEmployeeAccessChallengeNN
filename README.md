@@ -1,5 +1,7 @@
-# Title
-The problem I did was the Employee Access Challenge. The data provided is as follows:
+# Amazon Employee Access challenge
+From Hofstra CSC270
+
+The data provided is as follows:
 
 | **Column Name**    |   **Description**
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- |
